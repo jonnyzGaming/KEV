@@ -1,0 +1,11 @@
+K.E.V (kill every vegetable) is a 2d platform game where you play as kev the carrot. You will need to go on a quest to save your kids from an evil potato and no vegetable will stand in your way!
+
+Features:
+-Collect carrots to spend with ROY(aka the guy) on several weapon upgrades and much more!
+-Talk-able npcs who can assist you in your adventure.
+-Lots of enemies to kill and satisfy your need for vengeance.
+-Amazing 16 bit character animations and graphics.
+-Hidden areas and optional side quests.
+
+K.E.V is a java game still in development.
+Any feedback appreciated!
